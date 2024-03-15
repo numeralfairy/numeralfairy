@@ -1,4 +1,5 @@
 ### Hi there 👋
+I go to High School and am currently learning about technology. I want to start programming because it sounds interesting! And I love giraffes! ...and my boyfriend, who set me up with this account!
 
 <!--
 **numeralfairy/numeralfairy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
